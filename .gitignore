@@ -120,3 +120,4 @@ fabric.properties
 /.gradle/
 /build/
 /build/classes/java/test/
+.idea
